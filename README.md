@@ -10,9 +10,10 @@ Tutorial :
 
   
 OR :
-          Install  CodeBlocks Editor on your computer (if you want to run it into an integrated environment) : 
-              Code Blocks download latest version (fosshub.com) : 
-                 https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe
+
+  Install  CodeBlocks Editor on your computer (if you want to run it into an integrated environment) : 
+  Code Blocks download latest version (fosshub.com) : 
+          https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03mingw-setup.exe
                  
 
 To run in CMD : 
