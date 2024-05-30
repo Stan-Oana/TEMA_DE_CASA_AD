@@ -4,6 +4,7 @@ Prerequisities :
 
 Assuming that you have windows as your main OS, you have to accomplish some basic things before :
 •	Install C on your computer(assuming that you want to run your code from CMD) :
+
 Tutorial : 
   https://code.visualstudio.com/docs/cpp/config-mingw
 
