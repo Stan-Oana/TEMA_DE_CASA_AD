@@ -1,0 +1,41 @@
+
+
+Test case 1: 
+Maximum value of lobsters that can be caught: 13
+Time Complexity: 0.000000
+
+Test case 2: 
+Maximum value of lobsters that can be caught: 246
+Time Complexity: 0.000000
+
+Test case 3: 
+Maximum value of lobsters that can be caught: 655
+Time Complexity: 0.000000
+
+Test case 4: 
+Maximum value of lobsters that can be caught: 1374
+Time Complexity: 0.000000
+
+Test case 5: 
+Maximum value of lobsters that can be caught: 1292
+Time Complexity: 0.000000
+
+Test case 6: 
+Maximum value of lobsters that can be caught: 2784
+Time Complexity: 0.000000
+
+Test case 7: 
+Maximum value of lobsters that can be caught: 2778
+Time Complexity: 0.000000
+
+Test case 8: 
+Maximum value of lobsters that can be caught: 20538
+Time Complexity: 0.000000
+
+Test case 9: 
+Maximum value of lobsters that can be caught: 78106
+Time Complexity: 0.000000
+
+Test case 10: 
+Maximum value of lobsters that can be caught: 83928
+Time Complexity: 0.025000

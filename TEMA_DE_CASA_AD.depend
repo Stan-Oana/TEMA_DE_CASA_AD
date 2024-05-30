@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717065709 source:c:\users\nicus\desktop\tema_de_casa_ad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
